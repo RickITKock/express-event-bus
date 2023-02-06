@@ -1,7 +1,5 @@
 # express-event-bus
 
-# express-webstore-backend
-
 > **Note**
 >
 > This project is part of a microservice. See microservice-setup project.
